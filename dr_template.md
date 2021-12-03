@@ -58,9 +58,9 @@ GitHub Repository outside the Primary and Secondary Zones
 4. Error Budget
 
 **VPC:-** VPC has multiple availability zones high availability. It helps the to launch AWS resources into a virtual network.
-|--------------------|-------------------------------------------|---------------------------------------|
-| Availability Zones | "us-east-2a","us-east-2b","us-east-2c"    | "us-west-1a","us-west-1c"             |
-|--------------------|-------------------------------------------|---------------------------------------|
+| Availability Zones | "us-east-2a","us-east-2b","us-east-2c" | "us-west-1a","us-west-1c" |
+|--------------------|----------------------------------------|---------------------------|
+
 
 **Load Balancer:-** Both **Primary** and **Secondary** zones have **Load Balancers**. It is used to handle the large scale load on the application. It works on demand when there is high traffic recieved its `scale out` (increase number of instances) the instances or when the traffic is low `scale in` ((decrease number of instances) the resources.
 
