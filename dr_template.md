@@ -3,13 +3,11 @@
 ## AWS Zones
 Identify your zones here
 
-|--------------------|-------------------------------------------|---------------------------------------|
-| Regions            | us-east-2                                 | us-west-1                             |
-|--------------------|-------------------------------------------|---------------------------------------|
-| Organzation Zones  | Primary Zone                              | Disaster Recovery (DR) Secondary Zone |
-|--------------------|-------------------------------------------|---------------------------------------|
-| Availability Zones | "us-east-2a","us-east-2b","us-east-2c"    | "us-west-1a","us-west-1c"             |
-|--------------------|-------------------------------------------|---------------------------------------|
+| Regions            | us-east-2                              | us-west-1                             |
+|--------------------|----------------------------------------|---------------------------------------|
+| Organzation Zones  | Primary Zone                           | Disaster Recovery (DR) Secondary Zone |
+| Availability Zones | "us-east-2a","us-east-2b","us-east-2c" | "us-west-1a","us-west-1c"             |
+
 
 
 ## Servers and Clusters
